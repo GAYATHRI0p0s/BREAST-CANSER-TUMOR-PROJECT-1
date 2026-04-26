@@ -15,7 +15,7 @@ The goal is to predict whether a breast tumor is Benign or Malignant using clini
 * **Size:** 569 rows and 32 columns.
 
 * **Target:** diagnosis (M = Malignant, B = Benign).
-* ## 3. Methodology Overview
+## 3. Methodology Overview
 
 I followed the 10-stage lifecycle:
 
