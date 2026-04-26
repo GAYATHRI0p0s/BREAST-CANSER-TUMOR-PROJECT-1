@@ -1,7 +1,7 @@
 # BREAST-CANSER-TUMOR-PROJECT-1
 # Breast Cancer Classification Project
 
-**Student Name:** GAYATHRI PS,APARNA.V
+**Student Name:** GAYATHRI PS, APARNA.V
 
 **Course:** Msc computer science with specilaized in Data Analytics
 1. Problem Statement
