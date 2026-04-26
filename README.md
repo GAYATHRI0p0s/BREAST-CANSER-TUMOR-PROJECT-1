@@ -46,10 +46,10 @@ The Confusion Matrix below shows our SVM model's performance on the test set:
 
 ### Deployment Screenshots
 
-#### Benign Prediction
+### Benign Prediction
 ![Benign Prediction](Benign.png)
 
-#### Malignant Prediction
+### Malignant Prediction
 ![Malignant Prediction](Malignant.png)
 
 ## 6. Live Deployment
