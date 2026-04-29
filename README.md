@@ -34,6 +34,7 @@ I followed the 10-stage lifecycle:
 * Slightly more benign cases than malignant
 * Dataset is fairly balanced
 * Suitable for classification
+  
 ![Class Distribution](EDA_distribution.png)
 
 ### Correlation Heatmap
