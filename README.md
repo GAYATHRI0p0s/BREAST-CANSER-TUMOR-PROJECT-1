@@ -54,9 +54,9 @@ I followed the 10-stage lifecycle:
 
 The Confusion Matrix below shows our SVM model's performance on the test set:
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Confusion_Matrix.png)
 
-### Deployment Screenshots
+## 7. Deployment Screenshots
 
 ### Benign Prediction
 ![Benign Prediction](Benign.png)
@@ -64,5 +64,5 @@ The Confusion Matrix below shows our SVM model's performance on the test set:
 ### Malignant Prediction
 ![Malignant Prediction](Malignant.png)
 
-## 7. Live Deployment
+## 8. Live Deployment
 [View Live Streamlit App Here](https://breast-canser-tumor-project-1-3tpqeaxb3vbvnwrdpr44hq.streamlit.app/)
