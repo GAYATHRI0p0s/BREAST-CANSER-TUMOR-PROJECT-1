@@ -30,12 +30,16 @@ I followed the 10-stage lifecycle:
 * **Preprocessing:** Applied StandardScaler to normalize clinical features for better model convergence.
 
 ## 4. Exploratory Data Analysis
-* Class Distribution
-
+### Class Distribution
+* Slightly more benign cases than malignant
+* Dataset is fairly balanced
+* Suitable for classification
 ![Class Distribution](EDA_distribution.png)
 
-* Correlation Heatmap
-
+### Correlation Heatmap
+* Strong correlation between radius, perimeter, area
+* Key features influence tumor classification
+* Helps understand feature relationships
 ![Correlation Heatmap](EDA_correlation.png)
 
 ## 5. Results & Comparison
