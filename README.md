@@ -30,7 +30,11 @@ I followed the 10-stage lifecycle:
 ## 4. Exploratory Data Analysis
 * Class Distribution
 
-  ![Class Distribution](EDA_distribution.png)
+![Class Distribution](EDA_distribution.png)
+
+* Correlation Heatmap
+
+![Correlation Heatmap](EDA_correlation.png)
 
 ## 4. Results & Comparison
 
