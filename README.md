@@ -8,6 +8,7 @@
 ## 1. Problem Statement
 
 The goal is to predict whether a breast tumor is Benign or Malignant using clinical measurements of cell nuclei. By utilizing machine learning algorithms, we aim to provide a data-driven diagnostic tool that assists medical professionals in identifying breast cancer at an early stage, potentially improving patient survival rates.
+
 ## 2. Dataset Description
 
 * **Source:** Wisconsin Breast Cancer Dataset (Kaggle).
@@ -15,6 +16,7 @@ The goal is to predict whether a breast tumor is Benign or Malignant using clini
 * **Size:** 569 rows and 32 columns.
 
 * **Target:** diagnosis (M = Malignant, B = Benign).
+  
 ## 3. Methodology Overview
 
 I followed the 10-stage lifecycle:
@@ -36,7 +38,7 @@ I followed the 10-stage lifecycle:
 
 ![Correlation Heatmap](EDA_correlation.png)
 
-## 4. Results & Comparison
+## 5. Results & Comparison
 
 | Model | Accuracy | Recall |
 
@@ -48,7 +50,7 @@ I followed the 10-stage lifecycle:
 
 | SVM| 96.49% | 93.48%|
 
-## 5. Model Interpretation
+## 6. Model Interpretation
 
 The Confusion Matrix below shows our SVM model's performance on the test set:
 
@@ -62,5 +64,5 @@ The Confusion Matrix below shows our SVM model's performance on the test set:
 ### Malignant Prediction
 ![Malignant Prediction](Malignant.png)
 
-## 6. Live Deployment
+## 7. Live Deployment
 [View Live Streamlit App Here](https://breast-canser-tumor-project-1-3tpqeaxb3vbvnwrdpr44hq.streamlit.app/)
