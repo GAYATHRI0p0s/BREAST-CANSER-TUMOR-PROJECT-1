@@ -52,7 +52,7 @@ I followed the 10-stage lifecycle:
 
 ## 6. Model Interpretation
 
-The Confusion Matrix below shows our SVM model's performance on the test set:
+The confusion matrix below shows the performance of the best-performing model (Random Forest) on the test dataset.
 
 ![Confusion Matrix](Confusion_Matrix.png)
 
