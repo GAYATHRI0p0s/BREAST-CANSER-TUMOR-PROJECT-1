@@ -28,11 +28,6 @@ I followed the 10-stage lifecycle:
 
 * **Best Model:** **RANDOM FOREST** with ~97% accuracy.
 * **Preprocessing:** Applied StandardScaler to normalize clinical features for better model convergence.
-## 4. Dimensionality Reduction using PCA
-
-- Total Variance Retained: **0.9520691014391005**
-
-![Explained Variance Graph](PCA.png)
 
 ## 5. Exploratory Data Analysis
 ### Class Distribution
@@ -48,6 +43,12 @@ I followed the 10-stage lifecycle:
 * Helps understand feature relationships
   
 ![Correlation Heatmap](EDA_correlation.png)
+## 4. Dimensionality Reduction using PCA
+
+- Total Variance Retained: **0.9520691014391005**
+
+![Explained Variance Graph](PCA.png)
+* PCA Model Accuracy: 0.9736842105263158
 
 ## 6. Results & Comparison
 
